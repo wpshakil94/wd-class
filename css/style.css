@@ -1,0 +1,64 @@
+img{
+	max-width: 100%;
+}
+
+/*header css*/
+.mainheader{
+	background-color: #7330F9;
+}
+
+.mainheader nav ul li a{
+	color: #FFFFFF;
+	padding: 10px 20px;
+}
+.mainheader nav ul li a:hover{
+color: #7330F9;
+background-color: #C7CBD1;
+border-radius: 0px 20px 0px 20px;
+padding: 5px;
+transition: .6s;
+margin-top: 5px;
+}
+.mainheader nav ul li .dropdown-menu{
+	background-color: #7330F9;
+	
+}
+.mainheader nav ul li ul {
+color: #FFFFFF;
+background-color: #6D6E6A;
+}
+
+.nav-search{
+background-color: #7330F9;
+} 
+/*header css*/
+
+/*content css*/
+
+.content{
+	background-color: #EFF0F4;
+}
+.col-2 p{
+	font-size: 11px;
+}
+
+
+/*content css*/
+
+/*footer css*/
+.footer {
+    padding: 40px 0;
+}
+
+.footer h4 {
+    color: #fff;
+}
+
+.footer p {
+    color: #ccc;
+}
+.ftbg{
+	background-color: #7330F9;
+}
+
+/*footer css*/
